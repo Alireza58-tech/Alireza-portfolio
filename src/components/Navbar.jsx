@@ -149,29 +149,32 @@ const Navbar = () => {
 
 
                       <ul className="flex flex-wrap gap-5 ">
-              
+                            <a href="https://t.me/Alireza_tech55">
                           <li className="cursor-pointer text-xl opacity-70
                           transition-all duration-300 hover:text-purple-500
                           hover:opacity-100">
                             <FaTelegram />
                           </li>
+                           </a>
 
 
 
 
-
+                            <a href="https://www.linkedin.com/in/alireza-shabani-68a18830b">
                           <li className="cursor-pointer text-xl opacity-70
                           transition-all duration-300 hover:text-purple-500
                           hover:opacity-100">
                             <SiLinkedin />
                           </li>
+                          </a>
 
-
+                              <a href="https://github.com/Alireza58-tech">
                           <li className="cursor-pointer text-xl opacity-70
                           transition-all duration-300 hover:text-purple-500
                           hover:opacity-100">
                             <FaGithub />
                           </li>
+                          </a>
                </ul>
 
 
